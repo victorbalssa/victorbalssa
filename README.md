@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🖖🏻
 
-🔭   I’m currently working on expo-ticket-app
+####  I’m currently working on [expo-ticket-app](https://github.com/victorbalssa/expo-ticket-app) 👇🏻
 <br />
 <br />
 
