@@ -4,4 +4,4 @@
 <br />
 <br />
 
-<img src="https://i.imgur.com/rLwjEbYh.gif" width=450 />
+<img src="https://i.imgur.com/rLwjEbY.gif" width=450 />
